@@ -1,1 +1,1 @@
-# gestion-de-la-configuracion test
+# gestion-de-la-configuracion
