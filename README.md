@@ -1,7 +1,7 @@
-#Cave´s Quest
+# Cave´s Quest
 Para que podamos hacer uso de nuestro proyecto, primero tu máquina debe cumplir con lo siguiente:
 
-#REQUISITOS MÍNIMOS:
+# REQUISITOS MÍNIMOS:
 -OS : Windows® 10 LTSC/Home/Pro o en adelante (64-BITS)
 -Procesador: Intel(R) Core(TM) i3-5005U CPU 2.00GHz o ryzen 3 3250u CPU 2.60GHz
 -Memoria: 4GB de RAM como mínimo (Se recomienda 8GB de ser posible)
@@ -12,6 +12,8 @@ Para que podamos hacer uso de nuestro proyecto, primero tu máquina debe cumplir
 
 Si tu dispositivo cumple estas especificaciones, podemos ir al primer paso:
 
+# UnityHub
+
 -Para empezar, descargaremos Unity Hub en el siguiente enlace: https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.exe
 
 -Luego de que la descarga se complete, instalaremos el archivo que hemos descargado: UnityHubSetup.exe, haremos doble click en este
@@ -19,6 +21,8 @@ y observaremos que nos saldrá una pestaña, daremos click en "acepto", luego no
 por defecto pondrá la siguiente ruta: C:\Program Files\Unity Hub, aunque si lo deseas, puedes instalarlo en otro lugar, luego daremos click en "instalar".
 
 -Una vez se haya instalado, quitaremos el check del cuadro que dice "Ejecutar Unity Hub" y daremos click en "Terminar".
+
+# GitHub Desktop
 
 -Ahora antes de continuar descargaremos Git en el siguiente enlace: https://central.github.com/deployments/desktop/desktop/latest/win32
 
@@ -46,6 +50,8 @@ por defecto pondrá la siguiente ruta: C:\Program Files\Unity Hub, aunque si lo 
 
 Ya tenemos nuestro proyecto clonado, pero antes de pasar a utilizarlo, instalaremos Git para que cuando hagamos cambios, puedan ser subidos al repositorio.
 
+# Git
+
 -Empezaremos por copiar el siguiente link: https://github.com/git-for-windows/git/releases/download/v2.41.0.windows.3/Git-2.41.0.3-64-bit.exe
 
 -Haremos el mismo proceso que hicimos con los otros .exe y lo abriremos.
@@ -55,6 +61,8 @@ Ya tenemos nuestro proyecto clonado, pero antes de pasar a utilizarlo, instalare
 -Esperaremos a que se instale Git y una vez haya acabado, quitaremos el check donde dice "View Release Notes" y daremos click en "Terminar".
 
 Ahora que tenemos Git instalado, abriremos UnityHub.
+
+# Inicio UnityHub
 
 -Una vez haya entrado, debemos crear una cuenta de Unity en el caso de que no la tengamos o iniciar sesión en ella si ya la tenemos.
 
@@ -73,6 +81,8 @@ Ahora que tenemos Git instalado, abriremos UnityHub.
 -Despues de esto, daremos click en la carpeta Cave's-Quest y también daremos click en "Abrir".
 
 -Cuando hayamos hecho esto, nos saldrá un mensaje de que hace falta un editor, por lo que daremos click en instalar la version 2020.3.32f1 ya que esta es la que nos hace falta. Despues daremos click en "Continuar", luego en los terminos de Visual Studio 2019, daremos check en donde dice que he leido los terminos y condiciones, consecuentemente daremos click en instalar y esperaremos a que se instale el editor.
+
+#VS 2019
 
 -En el proceso, se instalará visual studio 2019, por lo que cuando esté cerca de finalizar, saldra una ventana que dirá visual studio installer, daremos click en "continuar", lo que hará que se prepare el instalador de visual studio 2019.
 
