@@ -3,12 +3,19 @@ Para que podamos hacer uso de nuestro proyecto, primero tu máquina debe cumplir
 
 # REQUISITOS MÍNIMOS:
 - OS : Windows® 10 LTSC/Home/Pro o en adelante (64-BITS).
+  
 - Procesador: Intel(R) Core(TM) i3-5005U CPU 2.00GHz o ryzen 3 3250u CPU 2.60GHz.
+  
 - Memoria: 4GB de RAM como mínimo (Se recomienda 8GB de ser posible).
+  
 - Gráficos: Intel hd graphics 5500 o Radeon RX Vega 3 graphics.
+  
 - DirectX: DX9, DX10, DX11 o DX12.
+  
 - Disco Duro: al menos 20GB de almacenamiento.
+  
 - Sonido: Tarjeta de sonido DX9, DX10, DX11 o DX12.
+  
 
 Si tu dispositivo cumple estas especificaciones, podemos ir al primer paso:
 
