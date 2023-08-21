@@ -82,7 +82,7 @@ Ahora que tenemos Git instalado, abriremos UnityHub.
 
 -Cuando hayamos hecho esto, nos saldrá un mensaje de que hace falta un editor, por lo que daremos click en instalar la version 2020.3.32f1 ya que esta es la que nos hace falta. Despues daremos click en "Continuar", luego en los terminos de Visual Studio 2019, daremos check en donde dice que he leido los terminos y condiciones, consecuentemente daremos click en instalar y esperaremos a que se instale el editor.
 
-#VS 2019
+# VS 2019
 
 -En el proceso, se instalará visual studio 2019, por lo que cuando esté cerca de finalizar, saldra una ventana que dirá visual studio installer, daremos click en "continuar", lo que hará que se prepare el instalador de visual studio 2019.
 
