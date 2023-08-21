@@ -91,3 +91,15 @@ Ahora que tenemos Git instalado, abriremos UnityHub.
 -esperaremos a que se instale el complemento y una vez haya pasado, se abrira una ventana donde daremos click en "De momento,no; quizás mas tarde" y cerraremos la pestaña, volveremos al Unity Hub, donde cerraremos la pestaña de descargas y en la pestaña de Proyectos, daremos click en Cave´s-Quest.
 
 -En ese momento se abrirá el editor, esperaremos a que cargue y uno vez esto sea así, el editor se abrirá y podremos hacer uso del proyecto.
+
+-Cuando se abre el editor se abre una pestaña con la opción de descargar una actualización para el editor, no es necesario instalarla en este momento por lo que vamos a decirle que no a la actualización.
+
+# Build del proyecto
+
+- Para realizar la build del proyecto debemos dirigirnos a la parte superor izquierda donde dice "File" y darle click, luego daremos click en la opción "Build settings".
+
+- Verificamos que lo estemos haciendo para la versión de PC, Mac y Linux (Aunque por defecto debería estar en esa opción) y después de eso daremos click en la opción "Build".
+
+-Esto abrirá el explorador de archivos donde elegiremos la ubicación de nuestro proyecto, es recomendable crear una carpeta especificamente para él.
+
+-Finalmente dentro de la carpeta que sleccionamos para el proyecto, podremos ver el ejecutable que sale con el nombre "Cave's Quest", damos click y tendremos nuestro proyecto funcionando.
