@@ -103,8 +103,16 @@ Ahora que tenemos Git instalado, abriremos UnityHub.
 
 - Para realizar la build del proyecto debemos dirigirnos a la parte superior izquierda donde dice "File" y darle click. Luego daremos click en la opción "Build settings".
 
+  <div align="center">
+  <img src="https://github.com/ElManuel25/gestion-de-la-configuracion/assets/101070451/d50da1ed-232c-4391-9c52-a0de7f166dbd" alt="Build settings" width="400" height="300" />
+  </div>
+
 - Verificamos que lo estemos haciendo para la versión de PC, Mac y Linux (Aunque por defecto debería estar en esa opción) y después de eso daremos click en la opción "Build".
 
-- Esto abrirá el explorador de archivos donde elegiremos la ubicación de nuestro proyecto. Es recomendable crear una carpeta específicamente para él.
+  <div align="center">
+  <img src="https://github.com/ElManuel25/gestion-de-la-configuracion/assets/101070451/41832eb3-4a30-44cb-81eb-34b1f0045aa5" alt="Build" width="400" height="300" />
+  </div>
 
+- Esto abrirá el explorador de archivos donde elegiremos la ubicación de nuestro proyecto. Es recomendable crear una carpeta específicamente para él.
+  
 - Finalmente dentro de la carpeta que seleccionamos para el proyecto, podremos ver el ejecutable que sale con el nombre "Cave's Quest". Damos click y tendremos nuestro proyecto funcionando.
